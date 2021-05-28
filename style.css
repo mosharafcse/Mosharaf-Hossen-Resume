@@ -1,0 +1,104 @@
+div
+{
+    border-radius: 5px;
+    }
+
+
+
+.right
+{
+    float: left;
+    margin-top: 50px;
+    padding-left:5px;
+    /*margin-right: -10px;
+    margin-left: 14%;*/
+    height: auto;
+    width: 99%;
+    background-color: #E3EDD8;
+    }
+    .left {
+      /*  position: absolute;
+        */
+    /*background-color: #2c45b38a;*/
+    color: black   ;
+/*margin-top: 150px;*/
+    }
+
+
+.left img
+{
+        float: right;
+    /* margin-top: 10px; */
+    display: block;
+    /* margin-top: 50px; */
+    /* position: relative; */
+    /* left: 0px; */
+    /* right: 24px; */
+    /* top: 0px; */
+    /* bottom: 0px; */
+    width: 130px;
+    height: auto;
+    /* text-align: center; */
+    margin-bottom: -38px;
+    margin-top: -127px;
+    
+    }
+    
+#footer
+{
+    height:40px;
+    clear:both;
+    position: relative;
+    background-color: #C1E3E1;
+    }
+    
+h3
+{
+    text-decoration: underline;
+    }
+
+#job-responsibilities
+{
+    padding: 1px;
+    }
+.job-title
+{
+    font-weight: bold;
+    }
+table
+{
+    border: 1px dashed black;
+    }
+td
+{
+    padding: 2px;
+    border: 1px solid #E88741;
+    }
+
+#course-name
+{
+    font-weight:bold;
+    }
+
+#company-name
+{
+    height:2px;
+    text-decoration:underline;
+    }
+#job-title
+{
+    height: 5px;
+    }
+.job-duration
+{
+    float:right;
+    }
+#heading
+{
+    font-weight:bold;
+    }
+    #footer{
+        text-align: center;
+        padding: 15px;
+
+    }
